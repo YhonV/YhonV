@@ -8,8 +8,9 @@
 * From Colombia, living in Santiago, Chile. 
 
 <h3 align="left">Connect with me:</h3>
-You can find me in Linkeind: [click here :)](https://www.linkedin.com/in/yhon-vivas-349662246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+]()
 <p align="left">
+  You can find me in Linkeind: <a href:"https://www.linkedin.com/in/yhon-vivas-349662246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
