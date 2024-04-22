@@ -1,11 +1,12 @@
-### Hey, whats'up? 👋        
+# Hey, whats'up? 👋        
 
 ### About me
 
 * My name's Yhon, yes, with Y. 
-* I am currently working as a Junior Software developer in a full time job. 💻
-* Selft Taught and college student at night. 🌃
-* From Colombia, living in Santiago, Chile. 
+* 💻 I am currently working as a Junior Software developer in a full time job. 
+* 🌃 Selft Taught and college student at night.
+* 🌱 I’m currently learning Swift, I would like to develop IOS apps :) 
+* :flag_colombia: From Colombia, living in Santiago, Chile. :flag_chile: 
 * You can find me in Linkeind: [click here](https://www.linkedin.com/in/yhon-vivas-349662246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,7 +18,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
