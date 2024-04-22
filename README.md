@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAxY25qanA0N2RsN2ZkMjYxYjFqMDBtcnQ3eTRqOTdicW90bjR1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
 
-### About me :)
+📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 ### I am currently working as a Junior Software developer in a full time job. 💻
 ### 
 
