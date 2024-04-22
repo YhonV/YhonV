@@ -1,4 +1,12 @@
-### Hey, whats'up? :)
+### Hey, whats'up? 👋        
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAxY25qanA0N2RsN2ZkMjYxYjFqMDBtcnQ3eTRqOTdicW90bjR1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" width="100"/>
+</div>
+
+### About me :)
+### I am currently working as a Junior Software developer in a full time job. 💻
+### 
 
 <!--
 **YhonV/YhonV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
