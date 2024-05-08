@@ -9,7 +9,7 @@
 * From Colombia, living in Santiago, Chile.
 * You can find me in Linkeind: [click here](https://www.linkedin.com/in/yhon-vivas-349662246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -27,7 +27,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt"postman" width="40" height="40"/>
 </a>
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt"jetbrains" width="40" height="40"/>
-</a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src=" https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt"docker" width="40" height="40"/></a>
 
 
 
