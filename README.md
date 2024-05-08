@@ -27,7 +27,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt"postman" width="40" height="40"/>
 </a>
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt"jetbrains" width="40" height="40"/>
-<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src=" https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt"docker" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt"docker" width="40" height="40"/></a>
 
 
 
