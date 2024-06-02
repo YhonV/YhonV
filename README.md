@@ -1,4 +1,4 @@
-# Hey, whats'up? 👋        
+# Hi guys, welcome :)      
 
 ## About me
 
