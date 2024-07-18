@@ -5,7 +5,6 @@
 * My name's Yhon, yes, with Y. 
 * 💻 I am currently working as a Junior Software developer in a full time job. 
 * 🌃 Selft Taught and college student at night.
-* 🌱 I’m currently learning Swift, I would like to develop IOS apps :) 
 * From Colombia, living in Santiago, Chile.
 * You can find me in Linkeind: [click here](https://www.linkedin.com/in/yhon-vivas-349662246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
@@ -19,7 +18,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a></p>
 
 <h3 align="left">Tools:</h3>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
