@@ -68,11 +68,11 @@
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=YhonV&theme=chartreuse-dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-guo&theme=chartreuse-dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YhonV&theme=chartreuse-dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashu-guo&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YhonV&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -80,13 +80,13 @@
 
 <p >
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/YhonV/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/YhonV/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/YhonV/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YhonV/YhonV/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//YhonV/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YhonV/YhonV/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </p>
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/YhonV/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
+## <img src='https://raw.githubusercontent.com/YhonV/YhonV/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
 <p align="center">
   <a href="https://YhonV.github.io/blogs/" target="_blank">
