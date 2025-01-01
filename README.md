@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working as a `Software` Developer.
 - 🌱 I’m currently learning `Swift` and `Mobile Development` in general :D
-- 📍 * From Colombia, living in Santiago, Chile 🇨🇱.
+- 📍 From Colombia, living in Santiago, Chile 🇨🇱.
 
 </td>
 <td width="50%" align="center">
