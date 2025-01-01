@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+ashu+guo;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Yhon+Vivas;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 <br>
@@ -66,7 +66,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ashu-guo&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=YhonV&theme=chartreuse-dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-guo&theme=chartreuse-dark&hide_border=false" /> 
 </td>
