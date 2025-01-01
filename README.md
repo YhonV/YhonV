@@ -3,7 +3,7 @@
 ## About me
 
 * My name's Yhon, yes, with Y. 
-* 💻 I am currently working as a Junior Software developer in a full time job. 
+* 💻 I am currently working as a Software developer in a full time job. 
 * 🌃 Selft Taught and college student at night.
 * From Colombia, living in Santiago, Chile 🇨🇱
 * You can find me in Linkeind: [click here](https://www.linkedin.com/in/yhon-vivas-349662246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
