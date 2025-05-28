@@ -1,30 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Yhon+Vivas;Welcome+to+my+profile!" alt="Title"></img>
-</div> 
-
-<br>
- 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
-</div>
-
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-
-- 🔭 I’m currently working as a `Software` Developer.
-- 🌱 I’m currently learning `Swift` and `Mobile Development` in general :D
-- 📍 From Colombia, living in Santiago, Chile 🇨🇱.
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr> 
-</table>
-
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
 <p align="left">
