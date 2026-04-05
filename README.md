@@ -19,22 +19,6 @@ If you wanna reach me:
 
 ## 📊 My Statistics
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YhonV&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" />
-      <br><br>
-      <img src="https://streak-stats.demolab.com/?user=YhonV&theme=chartreuse-dark&hide_border=true" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YhonV&theme=chartreuse-dark&hide_border=true&langs_count=10&layout=compact" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YhonV/YhonV/master/assets/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YhonV/YhonV/master/assets/github-contribution-grid-snake.svg">
-  </picture>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YhonV&theme=material-palenight&hide_border=true&background=eeeee"/>
 </p>
