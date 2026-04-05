@@ -1,4 +1,4 @@
-Hey there :)
+Hey there, my name is Yhon Vivas :)
 ---
 
 I'm a software developer currently working at [Consultora enaccion]([https://enaccion.cl](https://www.enaccion-c.cl/)).  
