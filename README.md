@@ -1,7 +1,7 @@
 Hey there :)
 ---
 
-I'm a software developer currently working at [Consultora enaccion](https://enaccion.cl).  
+I'm a software developer currently working at [Consultora enaccion]([https://enaccion.cl](https://www.enaccion-c.cl/)).  
 I really like bringing my ideas into the internet and sharing the process with all.
 
 Always cookin' 💻
@@ -17,17 +17,17 @@ If you wanna reach me:
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
+## 📊 My Statistics
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center">
   <tr>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=YhonV&theme=chartreuse-dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YhonV&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" />
       <br><br>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YhonV&theme=chartreuse-dark&hide_border=false" />
+      <img src="https://streak-stats.demolab.com/?user=YhonV&theme=chartreuse-dark&hide_border=true" />
     </td>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YhonV&theme=chartreuse-dark&hide_border=false&langs_count=10" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YhonV&theme=chartreuse-dark&hide_border=true&langs_count=10&layout=compact" />
     </td>
   </tr>
 </table>
