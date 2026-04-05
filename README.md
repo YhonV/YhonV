@@ -4,8 +4,9 @@ Hey there :)
 I'm a software developer currently working at [Consultora enaccion](https://enaccion.cl).  
 I really like bringing my ideas into the internet and sharing the process with all.
 
-Always cookin' 
-Right now I'm building **hilo** → Keep the track of everyting you read, follow other people, search for new books, and give your opinion.
+Always cookin' 💻
+What am i building right now? 
+- **hilo** → Keep the track of everyting you read, follow other people, search for new books, and give your opinion.
 
 If you wanna reach me:
 
